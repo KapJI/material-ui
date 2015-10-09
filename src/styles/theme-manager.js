@@ -115,7 +115,7 @@ module.exports = {
         handleSize: 12,
         handleSizeDisabled: 8,
         handleSizeActive: 18,
-        handleColorZero: rawTheme.palette.borderColor,
+        handleColorZero: rawTheme.palette.primary3Color,
         handleFillColor: rawTheme.palette.alternateTextColor,
         selectionColor: rawTheme.palette.primary1Color,
         rippleColor: rawTheme.palette.primary1Color,
